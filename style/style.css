@@ -9,7 +9,7 @@
     margin: 0;
     box-sizing: border-box;
   }
-  #header-sectoin{
+  #header-section{
     background: linear-gradient(180.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%);
     background-image:url(..//assets/hero-bg.png);
     background-size: 100% 100%;
@@ -87,10 +87,13 @@ letter-spacing: 0%;
 text-align: center;
 width: 691px;
 margin: 0 auto;
+margin-top: 24px;
   }
   
   #main-section>div>img{
     display: block;
+    width: 424px;
+
 }
   #main-section>div>h4{
     color: rgb(16, 16, 16);
@@ -127,7 +130,7 @@ margin-top: 32px;
     margin-bottom: 100px;
   }
   #footer-section>div>img{
-    width: 965px;
+    /* height: 470px; */
   }
   #footer-section>div>h2{
     color: rgb(16, 16, 16);
