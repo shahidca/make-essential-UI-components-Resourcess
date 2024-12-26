@@ -57,6 +57,7 @@ padding: 21px 32px 21px 32px;
 margin-top: 32px;
   }
   /* Header section Style end here */
+  /* main section style start here  */
   #main-section{
     display: flex;
     justify-content: center;
@@ -117,3 +118,50 @@ background: rgba(82, 195, 3, 0.15);
 margin-top: 32px;
 
   }
+  /* main section style end here  */
+  /* footer section Start Style here  */
+  #footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+  }
+  #footer-section>div>img{
+    width: 965px;
+  }
+  #footer-section>div>h2{
+    color: rgb(16, 16, 16);
+font-size: 48px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
+/* gap: 400px; */
+  }
+  #footer-section>div>p{
+    color: rgb(16, 16, 16);
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+
+  }
+  #footer-section>div>a{
+    margin-right: 24px;
+    font-size: 32px;
+font-weight: 600;
+align-items: center;
+
+  }
+  .follow-us{
+    color: rgb(16, 16, 16);
+font-size: 32px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+  }
+  
