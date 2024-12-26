@@ -1,0 +1,58 @@
+.work-sans {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  #header-sectoin{
+    background: linear-gradient(180.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%);
+    background-image:url(..//assets/hero-bg.png);
+    background-size: 100% 100%;
+    background-size: cover;
+   
+  }
+  .para-header{
+    color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 600;           
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+  }
+  header>div{
+    width: 1023px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 265px; 
+    padding-bottom: 265px; 
+  }
+  header>div>h4{
+    color: rgb(255, 255, 255);
+font-size: 64px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 16px;
+  }
+  header>div>p{
+    color: rgb(255, 255, 255);
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 24px;
+
+  }
+  header>div>button{
+    border-radius: 8px;
+background: rgb(82, 195, 3);
+padding: 21px 32px 21px 32px;
+margin-top: 32px;
+  }
